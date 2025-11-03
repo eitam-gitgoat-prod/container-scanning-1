@@ -185,7 +185,6 @@ docker push ghcr.io/YOUR_ORG/container-scanning-1:latest
 
 ---
 
-
 ## Next Steps
 
 After testing heuristic linking, try **container-scanning-2** to see annotation-based linking in action.
