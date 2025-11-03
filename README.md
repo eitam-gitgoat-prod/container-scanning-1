@@ -1,5 +1,4 @@
 # Container Scanning 1 - Heuristic Auto-Linking Demo
-
 This repository demonstrates **Arnica's heuristic container-to-source auto-linking** for Python-based containers.
 
 ## What This Tests
